@@ -1,4 +1,11 @@
-## Hi there 👋
+## 탄탄한 기본기를 갖춘 응용형 Developer 👋
+
+🏆 가장 임팩트가 컸던 프로젝트: cakeTimer  
+
+🔧 가장 기술적으로 어려웠던 프로젝트: minishell  
+
+🎨 가장 사용자 경험을 고민한 프로젝트: Classify  
+
 
 <!--
 **akth101/akth101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
