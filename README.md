@@ -1,10 +1,13 @@
 ## 탄탄한 기본기를 갖춘 응용형 Developer 👋
 
-🏆 가장 임팩트가 컸던 프로젝트: cakeTimer  
+🏆 실제 사용자 문제를 해결한 프로젝트: cakeTimer  
+[cakeTimer 바로가기](https://github.com/akth101/cakeTimer)
 
 🔧 가장 기술적으로 어려웠던 프로젝트: minishell  
+[minishell 바로가기](https://github.com/akth101/42seoul_minishell)
 
 🎨 가장 사용자 경험을 고민한 프로젝트: Classify  
+[Classify 바로가기](https://github.com/akth101/Classify)
 
 
 <!--
