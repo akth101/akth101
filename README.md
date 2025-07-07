@@ -21,7 +21,7 @@
 #### DevOps
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
-### 대표 프로젝트
+## 대표 프로젝트
 
 🏆 실제 사용자 문제를 해결한 프로젝트: cakeTimer  
 [cakeTimer 바로가기](https://github.com/akth101/cakeTimer)
@@ -32,7 +32,7 @@
 🎨 가장 사용자 경험을 고민한 프로젝트: Classify  
 [Classify 바로가기](https://github.com/akth101/Classify)
 
-### 학력 및 교육이력
+## 학력 및 교육이력
 | 기관/학교 | 기간 | 전공/과정 | 비고 |
 |---|---|---|---|
 | 한국해양대학교 | 2016.03 ~ 2020.02 | 기관시스템공학부 동력전달전공 | - |
